@@ -1,0 +1,21 @@
+@media (max-width:575px){
+    /* nhỏ hơn hoặc bằng 575px */
+.s-full-width{
+    width:100% !important;
+}
+.btn-control .btn-save{
+    margin-right: 0;
+    margin-left:0 ;
+    margin-bottom: 16px ;
+    
+}
+#subject-id{
+    margin-right: 0;
+}
+.btn-control .btn-delete{
+    margin-right: 0;
+    margin-left:0; 
+}
+}
+
+ 
